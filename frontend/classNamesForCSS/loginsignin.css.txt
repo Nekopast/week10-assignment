@@ -1,0 +1,46 @@
+logInSignIn.css
+whole register or log in section
+.lisi{
+
+}
+
+
+Login - main div
+.loginDiv{
+
+}
+
+login title
+.loginTitle{
+
+}
+
+text boxes for login and register
+.textInput{
+
+}
+
+buttons for all pages
+.btn{
+
+}
+
+User is logged in text
+.loggedIn{
+
+}
+
+Div containing the logout button
+.logoutDiv{
+
+}
+
+Div containing the register section
+.registerDiv{
+
+}
+
+register title
+.registerTitle{
+
+}

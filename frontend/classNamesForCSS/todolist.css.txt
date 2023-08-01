@@ -1,0 +1,29 @@
+Whole ToDo section
+.toDoDiv{
+
+}
+
+all buttons within todo list section
+.btn{
+
+}
+
+text boxes for to do list
+.textInput{
+
+}
+
+date input box
+.dateInput{
+
+}
+
+todo item div
+.itemDiv{
+
+}
+
+todo item input
+.itemInput{
+
+}

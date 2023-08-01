@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+
+.footer {
+    color: black;
+    font-family: 'Borel', cursive;
+    text-align: center;
+    align-items: center;
+}
